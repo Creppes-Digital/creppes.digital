@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://creppes.digital/sitemap.xml
+Sitemap: https://crepes.digital/sitemap.xml
